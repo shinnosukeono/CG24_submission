@@ -1,0 +1,5 @@
+build/*
+core/texture.hpp
+core/light.hpp
+lights/*
+textures/*
